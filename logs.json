@@ -1,0 +1,260 @@
+[
+  {
+    "time": "14:32:02",
+    "site": "tpc.googlesyndication.com",
+    "status": "ALLOWED",
+    "type": "HTTPS"
+  },
+  {
+    "time": "14:32:02",
+    "site": "pagead2.googlesyndication.com",
+    "status": "ALLOWED",
+    "type": "HTTPS"
+  },
+  {
+    "time": "14:32:03",
+    "site": "threat.api.mcafee.com",
+    "status": "ALLOWED",
+    "type": "HTTPS"
+  },
+  {
+    "time": "14:32:08",
+    "site": "events.launchdarkly.com",
+    "status": "ALLOWED",
+    "type": "HTTPS"
+  },
+  {
+    "time": "14:32:08",
+    "site": "www.google.com",
+    "status": "ALLOWED",
+    "type": "HTTPS"
+  },
+  {
+    "time": "14:32:08",
+    "site": "events.launchdarkly.com",
+    "status": "ALLOWED",
+    "type": "HTTPS"
+  },
+  {
+    "time": "14:32:08",
+    "site": "www.google.com",
+    "status": "ALLOWED",
+    "type": "HTTPS"
+  },
+  {
+    "time": "14:32:12",
+    "site": "www.google.co.in",
+    "status": "ALLOWED",
+    "type": "HTTPS"
+  },
+  {
+    "time": "14:32:15",
+    "site": "clients4.google.com",
+    "status": "ALLOWED",
+    "type": "HTTPS"
+  },
+  {
+    "time": "14:32:24",
+    "site": "accounts.google.com",
+    "status": "ALLOWED",
+    "type": "HTTPS"
+  },
+  {
+    "time": "14:32:29",
+    "site": "accounts.google.com",
+    "status": "ALLOWED",
+    "type": "HTTPS"
+  },
+  {
+    "time": "14:32:39",
+    "site": "safebrowsing.google.com",
+    "status": "ALLOWED",
+    "type": "HTTPS"
+  },
+  {
+    "time": "14:32:39",
+    "site": "168.128.10.1",
+    "status": "BLOCKED",
+    "type": "\u26a0 ML Detected Phishing"
+  },
+  {
+    "time": "14:32:40",
+    "site": "168.128.10.1",
+    "status": "BLOCKED",
+    "type": "\u26a0 ML Detected Phishing"
+  },
+  {
+    "time": "14:33:03",
+    "site": "signaler-pa.clients6.google.com",
+    "status": "ALLOWED",
+    "type": "HTTPS"
+  },
+  {
+    "time": "14:33:09",
+    "site": "beacons.gcp.gvt2.com",
+    "status": "ALLOWED",
+    "type": "HTTPS"
+  },
+  {
+    "time": "14:33:12",
+    "site": "ws.chatgpt.com",
+    "status": "ALLOWED",
+    "type": "HTTPS"
+  },
+  {
+    "time": "14:33:26",
+    "site": "accounts.google.com",
+    "status": "ALLOWED",
+    "type": "HTTPS"
+  },
+  {
+    "time": "14:33:49",
+    "site": "accounts.google.com",
+    "status": "ALLOWED",
+    "type": "HTTPS"
+  },
+  {
+    "time": "14:34:09",
+    "site": "e2c13.gcp.gvt2.com",
+    "status": "ALLOWED",
+    "type": "HTTPS"
+  },
+  {
+    "time": "14:34:10",
+    "site": "main.vscode-cdn.net",
+    "status": "ALLOWED",
+    "type": "HTTPS"
+  },
+  {
+    "time": "14:34:41",
+    "site": "beacons.gvt2.com",
+    "status": "ALLOWED",
+    "type": "HTTPS"
+  },
+  {
+    "time": "14:34:41",
+    "site": "signaler-pa.clients6.google.com",
+    "status": "ALLOWED",
+    "type": "HTTPS"
+  },
+  {
+    "time": "14:34:55",
+    "site": "accounts.google.com",
+    "status": "ALLOWED",
+    "type": "HTTPS"
+  },
+  {
+    "time": "10:23:04",
+    "site": "201647-ipv4mte.gr.global.aa-rt.sharepoint.com",
+    "status": "ALLOWED",
+    "type": "HTTPS"
+  },
+  {
+    "time": "10:23:04",
+    "site": "201647-ipv4mte.gr.global.aa-rt.sharepoint.com",
+    "status": "ALLOWED",
+    "type": "HTTPS"
+  },
+  {
+    "time": "10:23:05",
+    "site": "infyspringboard.onwingspan.com",
+    "status": "ALLOWED",
+    "type": "HTTPS"
+  },
+  {
+    "time": "10:23:06",
+    "site": "chatgpt.com",
+    "status": "ALLOWED",
+    "type": "HTTPS"
+  },
+  {
+    "time": "10:23:06",
+    "site": "web.whatsapp.com",
+    "status": "ALLOWED",
+    "type": "HTTPS"
+  },
+  {
+    "time": "10:23:08",
+    "site": "web.whatsapp.com",
+    "status": "ALLOWED",
+    "type": "HTTPS"
+  },
+  {
+    "time": "10:23:09",
+    "site": "web.whatsapp.com",
+    "status": "ALLOWED",
+    "type": "HTTPS"
+  },
+  {
+    "time": "10:23:11",
+    "site": "signaler-pa.clients6.google.com",
+    "status": "ALLOWED",
+    "type": "HTTPS"
+  },
+  {
+    "time": "10:23:11",
+    "site": "signaler-pa.clients6.google.com",
+    "status": "ALLOWED",
+    "type": "HTTPS"
+  },
+  {
+    "time": "10:23:15",
+    "site": "ws.chatgpt.com",
+    "status": "ALLOWED",
+    "type": "HTTPS"
+  },
+  {
+    "time": "10:23:16",
+    "site": "beacons.gcp.gvt2.com",
+    "status": "ALLOWED",
+    "type": "HTTPS"
+  },
+  {
+    "time": "10:23:25",
+    "site": "mtalk.google.com",
+    "status": "ALLOWED",
+    "type": "HTTPS"
+  },
+  {
+    "time": "10:23:35",
+    "site": "in.search.yahoo.com",
+    "status": "ALLOWED",
+    "type": "HTTPS"
+  },
+  {
+    "time": "10:23:39",
+    "site": "128.23.10.1",
+    "status": "ALLOWED",
+    "type": "HTTPS"
+  },
+  {
+    "time": "10:23:39",
+    "site": "safebrowsing.google.com",
+    "status": "ALLOWED",
+    "type": "HTTPS"
+  },
+  {
+    "time": "10:23:40",
+    "site": "mtalk.google.com",
+    "status": "ALLOWED",
+    "type": "HTTPS"
+  },
+  {
+    "time": "10:23:41",
+    "site": "clients4.google.com",
+    "status": "ALLOWED",
+    "type": "HTTPS"
+  },
+  {
+    "time": "10:23:42",
+    "site": "128.23.10.1",
+    "status": "BLOCKED",
+    "type": "\u26a0 ML Detected Phishing"
+  },
+  {
+    "time": "10:23:42",
+    "site": "128.23.10.1",
+    "status": "BLOCKED",
+    "type": "\u26a0 ML Detected Phishing"
+  }
+]
